@@ -11,6 +11,8 @@ A coin toss application.
 
 
 3. Extract the zip using winzip or any other rar software.
+
+
 ![image](https://user-images.githubusercontent.com/75534893/150067688-b635dcc9-2700-4ad3-875a-994e035fdbe0.png)
 
 4. Open the Coin-Toss-main folder and run the exe.
