@@ -2,8 +2,10 @@
 A coin toss application.
 
 ## Steps to install:
-Download the project by clicking on the green "code" button.
+1. Download the project by clicking on the green "code" button.
 
-Run the exe whenever needed.
+2. Click on Download zip.
+
+3. Run the exe whenever needed.
 
 Done 😀
